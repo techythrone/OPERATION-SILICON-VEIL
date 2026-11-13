@@ -1,0 +1,8 @@
+RECORD_ID,DATE,ORIGIN,APPROVED_DESTINATION,EXCEPTION_LOCATION,STATUS,NOTE
+FR-771,2026-09-21,Port Delta,WH-04,,CLEARED,Standard receiving scan
+FR-772,2026-09-22,Port Delta,WH-04,WH-17,EXCEPTION,Secondary scan absent
+FR-773,2026-09-23,Port Delta,WH-04,,CLEARED,Standard receiving scan
+FR-774,2026-09-24,Port Delta,WH-04,,PENDING,Awaiting routine reconciliation
+
+ANALYST NOTE:
+The approved destination is not necessarily the physical location recorded in the exception field. Investigate the row marked EXCEPTION.

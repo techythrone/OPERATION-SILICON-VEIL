@@ -1,0 +1,14 @@
+DIRECTORATE 09 // SOURCE SV-05
+CLASSIFICATION: SIMULATED THIRD-PARTY DUE-DILIGENCE
+DATE: 2026-10-02
+
+SUBJECT: Payment exception review — intermediary supplier
+
+The remittance exception references the legal entity JADE HARBOR MICROTECH. The supplier's abbreviated trading label appears elsewhere as JH Micro.
+
+The due-diligence file does not establish wrongdoing. It records a mismatch between the legal-name field on the invoice and the abbreviated entity on the reconciliation sheet.
+
+ANALYST TASK:
+Use the full legal-name field, not the abbreviated trading label.
+
+END EXTRACT

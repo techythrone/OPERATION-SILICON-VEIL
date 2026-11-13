@@ -1,0 +1,15 @@
+DIRECTORATE 09 // SOURCE SV-03
+CLASSIFICATION: SIMULATED TRANSCRIPT EXTRACT
+DATE: 2026-09-25
+LANGUAGE: Mandarin (English analyst gloss follows)
+
+ORIGINAL EXCERPT:
+“白鹭频道只用于确认交接，不要在公开日程中写出代号。”
+
+ENGLISH ANALYST GLOSS:
+“The White Egret channel is only for confirming the handoff. Do not write the codename in the public schedule.”
+
+CONTEXT:
+The phrase is a channel designation, not a person's name. The transcript contains no verified identity attribution.
+
+END EXTRACT

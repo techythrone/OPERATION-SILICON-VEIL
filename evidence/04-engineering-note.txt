@@ -1,0 +1,15 @@
+DIRECTORATE 09 // SOURCE SV-04
+CLASSIFICATION: SIMULATED ENGINEERING CONFIGURATION
+DATE: 2026-09-27
+
+PROFILE: restricted-validation
+ACCELERATOR_FAMILY: AURORA-X8
+FIRMWARE_BRANCH: r5.14-rc2
+INTERCONNECT_PROFILE: fabric-v3
+THERMAL_ENVELOPE: lab-only
+DEPLOYMENT_STATE: validation-pending
+
+ENGINEERING COMMENT:
+This profile is not approved for general deployment. Any reference to the platform should be cross-checked against the validation schedule before drawing conclusions.
+
+END EXTRACT

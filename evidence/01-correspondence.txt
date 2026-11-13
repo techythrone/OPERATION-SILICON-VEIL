@@ -1,0 +1,13 @@
+DIRECTORATE 09 // SOURCE SV-01
+CLASSIFICATION: SIMULATED INTERNAL CORRESPONDENCE
+DATE: 2026-09-18
+
+FROM: Program Coordination
+TO: Regional Logistics Desk
+SUBJECT: ORPHEUS / validation-window alignment
+
+The ORPHEUS program reference must remain on the internal reconciliation thread. External-facing paperwork should use the standard accelerator family description only.
+
+Please confirm that the sample allocation and the downstream validation calendar remain aligned. The exception review is not a change to the approved commercial destination; it is a request to reconcile the handoff record.
+
+END EXTRACT

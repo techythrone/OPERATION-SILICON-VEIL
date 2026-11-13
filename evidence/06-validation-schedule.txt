@@ -1,0 +1,14 @@
+DIRECTORATE 09 // SOURCE SV-06
+CLASSIFICATION: SIMULATED VALIDATION CALENDAR
+DATE: 2026-10-04
+
+SCHEDULE REVISION C
+
+Routine validation window: 2027-02-10 through 2027-02-12
+Restricted-profile validation: 2027-02-16
+Dispatch reconciliation deadline: 2027-02-18
+
+SCHEDULING NOTE:
+The restricted profile's validation slot was moved after the routine window. The dispatch instruction refers to the restricted-profile slot, not the routine validation window.
+
+END EXTRACT
